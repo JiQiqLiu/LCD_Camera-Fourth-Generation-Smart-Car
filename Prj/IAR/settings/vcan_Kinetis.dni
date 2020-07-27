@@ -1,0 +1,183 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[JLinkDriver]
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[DebugChecksum]
+Checksum=-47162935
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[PE_STARTUP]
+CPUTARGETTYPENAME=_ "ARM Processor - Autodetect"
+USE_CYCLONEPRO_RELAYS=_ "0"
+CyclonePro_poweroffonexit=_ "0"
+CyclonePro_currentvoltage=_ "128"
+CyclonePro_PowerDownDelay=_ "250"
+CyclonePro_PowerUpDelay=_ "250"
+Multilink_PowerDownDelay=_ "250"
+Multilink_PowerUpDelay=_ "1000"
+USE_SWD=_ "1"
+IO_DELAY_CNT=_ "0"
+FREQ_FX=_ "4"
+FREQ_NORMAL=_ "0"
+FREQ_OSJTAG=_ "0"
+FREQ_CYCLONE=_ "3"
+FREQ_TRACELINK=_ "3"
+FREQ_LIGHTNING=_ "1"
+FREQ_OPENSDA=_ "3"
+RESET_DELAY=_ "0"
+PORT=_ "1"
+PORT_NAME_STRING=_ ""
+interface_selection=_ "1"
+TraceLink_MaxBufferSize=_ "1"
+SHOWDIALOG=_ "0"
+[PE_STORED_DEVICES]
+device0=_ "NXP_K6x_K60DN512ZM10"
+[PE_PEDEBUG]
+CURRENTDEVICE=_ "NXP_K6x_K60DN512ZM10"
+ERASE_PROGRAM_WITHOUT_ASKING=_ "1"
+CURRENTMODE=_ "4"
+[PE_DEVICE]
+CHIPMODE=_ "NXP_K6x_K60DN512ZM10"
+[PE_SETTINGS]
+DEFAULT_SOURCE_PATH=_ "E:\iar system\arm\bin\pemicro\P&E"
+[PE_STARTUP12]
+show_hstep_assembly_details_new=_ "0"
+[PE_ARM]
+FILE1=_ ""
+BINTORAM=_ "1"
+BINTOFLASH=_ "0"
+BINTOFLASHDEFAULT=_ "0"
+GOTILMAINDEFAULTON=_ "1"
+KEEPCPROGOPEN=_ "0"
+[PEMICRODriver]
+PEM_LeaveTargetRunning=0x00000000
+[Breakpoints]
+Count=0
+[FlashMemory]
+FlashEraseSelection=0 1  
+[SWOTraceHWSettings]
+OverrideDefaultClocks=0
+CpuClock=72000000
+ClockAutoDetect=0
+ClockWanted=2000000
+JtagSpeed=2000000
+Prescaler=36
+TimeStampPrescIndex=0
+TimeStampPrescData=0
+PcSampCYCTAP=1
+PcSampPOSTCNT=15
+PcSampIndex=0
+DataLogMode=0
+ITMportsEnable=0
+ITMportsTermIO=0
+ITMportsLogFile=0
+ITMlogFile=$PROJ_DIR$\ITM.log
+[Trace2]
+Enabled=0
+ShowSource=0
+[SWOTraceWindow]
+PcSampling=0
+InterruptLogs=0
+ForcedTimeStamps=0
+EventCPI=0
+EventEXC=0
+EventFOLD=0
+EventLSU=0
+EventSLEEP=0
+[PowerLog]
+Title_0=I0
+Symbol_0=0 4 0
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+LiveEnabled=0
+LiveFile=PowerLogLive.log
+[DataLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+[EventLog]
+Title_0=Ch3
+Symbol_0=0 4 1
+Title_1=Ch2
+Symbol_1=0 4 1
+Title_2=Ch1
+Symbol_2=0 4 1
+Title_3=Ch0
+Symbol_3=0 4 1
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[InterruptLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[PowerProbe]
+Frequency=10000
+Probe0=I0
+ProbeSetup0=2 1 1 2 0 0
+[Trace1]
+Enabled=0
+ShowSource=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\LCD_摄像头 - 副本\Chip\src\IAR\system_MK60DZ10.c" ""
+A1=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\LCD_摄像头 - 副本\Chip\src\misc.c" ""
+A2=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 5\Chip\src\IAR\system_MK60DZ10.c" ""
+A3=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 5\Chip\src\MK60_dma.c" ""
+A4=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 5\Chip\src\MK60_ftm.c" ""
+A5=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 5\Chip\src\MK60_mcg.c" ""
+A6=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 二代目 - 5.0 - xiugai\App\LQ12864.c" ""
+A7=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 四代目-新十字 -1.0\Chip\src\MK60_SysTick.c" ""
+A8=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 四代目-新十字 -1.0\Chip\src\MK60_ftm.c" ""
+A9=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 四代目-新十字 -1.0\Chip\src\MK60_mcg.c" ""
+A10=_ "E:\小车\山外K60参考代码V5.5版_书后完整库（支持DZ10、FN15、FX15）\x-space\LCD_摄像头 - 正式版4.0\App\LQ12864.c" ""
+Count=11
+SuppressDialog=1

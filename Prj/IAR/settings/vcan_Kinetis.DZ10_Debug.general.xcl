@@ -1,0 +1,15 @@
+"H:\IAR\arm\bin\armproc.dll" 
+
+"H:\IAR\arm\bin\armjlink2.dll" 
+
+"C:\Users\Administrator\Desktop\5.23zx\LCD_摄像头 - 四代目-新十字 -2.0 - 副本\Prj\IAR\DZ10_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "H:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "H:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--flash_loader "H:\IAR\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+

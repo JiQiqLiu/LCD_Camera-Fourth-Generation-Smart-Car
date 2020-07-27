@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>vcan_Kinetis/DZ10_Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>200</Column0><Column1>8</Column1><Column2>3</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Select-Ambiguous-Definitions>
+        
+        
+        
+      <ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Select-Ambiguous-Definitions>
+    <Build><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>979</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build><TerminalIO/><Find-All-Declarations><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-All-Declarations><Find-All-References><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-All-References></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-27903-16526</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>vcan_Kinetis</ExpandedNode><ExpandedNode>vcan_Kinetis/App</ExpandedNode><ExpandedNode>vcan_Kinetis/Board</ExpandedNode><ExpandedNode>vcan_Kinetis/Chip</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5884-16530</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-19874-20566</Identity>
+            <TabName>Ambiguous Definitions</TabName>
+            <Factory>Select-Ambiguous-Definitions</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-26834-30158</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-29012-20069</Identity><TabName>Declarations</TabName><Factory>Find-All-Declarations</Factory><Session/></Tab><Tab><Identity>TabID-16694-21022</Identity><TabName>References</TabName><Factory>Find-All-References</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>2</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Inc\NeverMore_Image.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>463</SelStart2><SelEnd2>463</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\servo.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>31</YPos2><SelStart2>1067</SelStart2><SelEnd2>1067</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\src\MK60_PIT.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>115</YPos2><SelStart2>456</SelStart2><SelEnd2>456</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\motor.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>100</YPos2><SelStart2>2691</SelStart2><SelEnd2>2691</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\NeverMore_Image.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1187</YPos2><SelStart2>33212</SelStart2><SelEnd2>33212</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\inc\MK60_pit.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>45</YPos2><SelStart2>2420</SelStart2><SelEnd2>2445</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Inc\motor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>334</SelStart2><SelEnd2>334</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>36</YPos2><SelStart2>1098</SelStart2><SelEnd2>1098</SelEnd2></Tab><ActiveTab>7</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Inc\servo.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>201</SelStart2><SelEnd2>201</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\src\MK60_SysTick.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>10</YPos2><SelStart2>476</SelStart2><SelEnd2>476</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\inc\MK60_SysTick.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>13</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-053EA2B8><key>iaridepm.enu1</key></Toolbar-053EA2B8></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>523</Bottom><Right>248</Right><x>-2</x><y>-2</y><xscreen>195</xscreen><yscreen>83</yscreen><sizeHorzCX>126953</sizeHorzCX><sizeHorzCY>106274</sizeHorzCY><sizeVertCX>162760</sizeVertCX><sizeVertCY>672215</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>213</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>215</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>275288</sizeHorzCY><sizeVertCX>126953</sizeVertCX><sizeVertCY>106274</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
